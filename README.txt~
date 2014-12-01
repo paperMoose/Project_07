@@ -1,4 +1,5 @@
-Erfan Azad
+Ryan Brandt
 Date: Sep 11 2014
 --------------------
-Along with the original files in the given package. I have also created a "ppmMethods.h" and "ppmMethods.c" files in include and lib directories also I have changed the makefile files to account for this addition. 
+This is a image/animation renderer written in c capable of generating many different types of images. In the lib folder
+all the different types of shapes and functions are listed as filenames. 
